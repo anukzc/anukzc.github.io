@@ -153,6 +153,10 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		header > p.subtitle {
+			margin-top: 0.25em;
+		}
+
 	footer {
 		margin: 2em 0 0 0;
 	}
